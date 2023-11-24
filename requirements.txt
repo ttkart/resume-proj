@@ -1,0 +1,9 @@
+numpy
+pandas
+pdfplumber
+streamlit
+gensim
+nltk
+transformers
+torch
+scikit-learn
